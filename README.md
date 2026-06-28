@@ -1,5 +1,13 @@
 # Employee Attrition Prediction
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
 ## Project Overview
 
 This project focuses on analyzing HR employee attrition data to develop machine learning models capable of predicting employee turnover. The primary goal is to identify key factors contributing to attrition and provide actionable insights that can help organizations reduce employee turnover and improve retention strategies. The analysis is conducted using Python, with extensive use of data science libraries for exploration, modeling, and visualization.
